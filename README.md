@@ -1,3 +1,5 @@
+## Bem-vindo(a) ao perfil do Jota Vitoz 😁
+ 
  <div>
    <a href="https://github.com/jotavitorz">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotavitorz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -12,7 +14,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Minhas redes sociais abaixo!
  
 <div> 
   <a href="https://www.youtube.com/@jotavitorz" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
